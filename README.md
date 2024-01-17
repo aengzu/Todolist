@@ -1,6 +1,9 @@
 
 ## DAY 3 투두리스트 구현하기
 
+### 배포링크 
+https://aengzu.github.io/Todolist/
+
 ### 1. 우선 피그마로 디자인을 잡았다. 
 
 <img width="379" alt="스크린샷 2024-01-17 오후 4 09 59" src="https://github.com/aengzu/FE-Challenge/assets/102356873/a664b9af-0179-4f64-b226-dcca03bbccec">
