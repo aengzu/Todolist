@@ -1,8 +1,8 @@
 
 ## DAY 3 투두리스트 구현하기
 
-### 배포링크 
-https://aengzu.github.io/Todolist/
+### 🧸 배포링크 
+배포링크 : https://aengzu.github.io/Todolist/
 
 ### 1. 우선 피그마로 디자인을 잡았다. 
 
